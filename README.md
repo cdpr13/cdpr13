@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/cdpr13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdpr13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cdpr13&theme=dracula" alt="cdpr13"/>
+  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=cdpr13&theme=dracula" alt="cdpr13"/>
 </div>
 <div style="display: inline_block"><br>
 <p align="left"> 
