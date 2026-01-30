@@ -1,9 +1,9 @@
 ## Hola soy Cristian Pacheco, fullstack software developer. 💻
 <div align="center">
-  <a href="https://github.com/cdpr13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdpr13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://ishan-rest.vercel.app/svg/banner/dev7/CristianPacheco/FullStackDeveloper">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=cdpr13&theme=highcontrast&hide_border=true&locale=es" alt="GitHub Streak" />
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cdpr13&theme=highcontrast&hide_border=true&locale=es" alt="GitHub Streak" /></a>
 </div>
 
 <div style="display: inline_block"><br>
